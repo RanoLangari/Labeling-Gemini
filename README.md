@@ -171,4 +171,4 @@ Proyek ini dilisensikan di bawah MIT License. Lihat file `LICENSE` untuk detail 
 
 ---
 
-💡 **Tips**: Untuk hasil terbaik, pastikan teks input dalam bahasa Indonesia yang jelas dan tidak terlalu panjang (maksimal beberapa kalimat).
+💡 **Tips**: Untuk hasil terbaik, pastikan teks input dalam bahasa Indonesia yang jelas dan tidak terlalu panjang (maksimal beberapa kalimat)
